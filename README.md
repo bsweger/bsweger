@@ -2,7 +2,7 @@
 
 I’m a technical leader and software engineer who specializes in designing, building, and shipping data-centric applications.
 
-Currently, I work as a research fellow at the UMass School of Public Health, in the Department of Biostatistics and Epidemiology (specifically, the [Reich Lab]([https://reichlab.io/)](https://reichlab.io/people)). Some open source work from this job includes:
+Currently, I work as a research fellow at the UMass School of Public Health, in the Department of Biostatistics and Epidemiology (specifically, the [Reich Lab](https://reichlab.io/people)). Some open source work from this job includes:
 
 - [Cladetime](https://cladetime.readthedocs.io/), a Python interface for accessing past and present Nextrain-produced SARS-CoV-2 sequence data and performing point-in-time clade assignments.
 - Data pipelines for the [SARS-CoV-2 Variant Nowcast Hub](https://reichlab.io/variant-nowcast-hub-dashboard/), a collaborative modeling exercise to predict the prevalence of predominant COVID-19 strains in U.S. states.
